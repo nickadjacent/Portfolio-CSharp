@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+a{
+    font-size: 25px;
+}
+
+.div{
+    display: inline-block;
+}
+
+img{
+    width: 200px;
+    padding: 20px;
+}
+
+#par{
+    width: 200px;
+    padding: 20px;
+}

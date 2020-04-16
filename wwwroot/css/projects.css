@@ -1,0 +1,25 @@
+*{
+    margin: auto;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.inline{
+    display: inline-block;
+}
+
+.width{
+    width: 200px;
+}
+
+.width2{
+    width: 75%;
+}
+
+div{
+    padding: 10px;
+}
+
+fieldset{
+    width: 75%;
+}

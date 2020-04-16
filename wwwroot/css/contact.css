@@ -1,0 +1,19 @@
+*{
+    margin: auto;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.inline{
+    display: inline-block;
+    height: 100px;
+    vertical-align: top;
+}
+
+p{
+    padding: 10px;
+}
+
+fieldset{
+    width: 75%;
+}
